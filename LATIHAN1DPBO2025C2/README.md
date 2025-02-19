@@ -41,3 +41,19 @@ Terdapat 2 Kelas yaitu kelas Petshop dan Crud
 ### Program dengan CPP
 
 ![1](https://github.com/marimoo0/TP1DPBO2025C2/blob/ff8af00077ad9dfb0d574b8f628f7df31b6c3afd/LATIHAN1DPBO2025C2/CPP/SS/Screenshot_1.png)
+![2](hhttps://github.com/marimoo0/TP1DPBO2025C2/blob/703e8cefd27b77a017d7947d3014dde33798125c/LATIHAN1DPBO2025C2/CPP/SS/Screenshot_2.png)
+![3](https://github.com/marimoo0/TP1DPBO2025C2/blob/703e8cefd27b77a017d7947d3014dde33798125c/LATIHAN1DPBO2025C2/CPP/SS/Screenshot_3.png)
+![4](https://github.com/marimoo0/TP1DPBO2025C2/blob/703e8cefd27b77a017d7947d3014dde33798125c/LATIHAN1DPBO2025C2/CPP/SS/Screenshot_4.png)
+![5](https://github.com/marimoo0/TP1DPBO2025C2/blob/703e8cefd27b77a017d7947d3014dde33798125c/LATIHAN1DPBO2025C2/CPP/SS/Screenshot_5.png)
+
+### Program dengan Java
+
+![1](https://github.com/marimoo0/TP1DPBO2025C2/blob/703e8cefd27b77a017d7947d3014dde33798125c/LATIHAN1DPBO2025C2/Java/SS/Screenshot_1.png)
+![2](https://github.com/marimoo0/TP1DPBO2025C2/blob/703e8cefd27b77a017d7947d3014dde33798125c/LATIHAN1DPBO2025C2/Java/SS/Screenshot_2.png)
+![3](https://github.com/marimoo0/TP1DPBO2025C2/blob/703e8cefd27b77a017d7947d3014dde33798125c/LATIHAN1DPBO2025C2/Java/SS/Screenshot_3.png)
+![4](https://github.com/marimoo0/TP1DPBO2025C2/blob/703e8cefd27b77a017d7947d3014dde33798125c/LATIHAN1DPBO2025C2/Java/SS/Screenshot_4.png)
+
+### Program dengan Java
+
+![1](https://github.com/marimoo0/TP1DPBO2025C2/blob/703e8cefd27b77a017d7947d3014dde33798125c/LATIHAN1DPBO2025C2/PHP/SS/Screenshot_1.png)
+![2](https://github.com/marimoo0/TP1DPBO2025C2/blob/703e8cefd27b77a017d7947d3014dde33798125c/LATIHAN1DPBO2025C2/PHP/SS/Screenshot_2.png)
