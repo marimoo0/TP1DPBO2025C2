@@ -30,7 +30,7 @@ Terdapat 2 Kelas yaitu kelas Petshop dan Crud
 - intansiasi objek Crud untuk membuat list of objek petshop.
 - Lalu masuk ke dalam looping crud
 - Program akan menampilkan menu CRUD (Create, Read, Update, Dellete), dan user diminta untuk menginput nilai integer untuk memilih menu yang diinginkan
-- Jika user menginput 1 maka akan dilakukan proses create objek petshop, user akan diminta untuk menginputkan data objek mahasiswa berupa id, nama_produk, kategori_produk, harga_produk. Selanjutnya program memanggil method create pada crud
+- Jika user menginput 1 maka akan dilakukan proses create objek petshop, user akan diminta untuk menginputkan data objek petshop berupa id, nama_produk, kategori_produk, harga_produk. Selanjutnya program memanggil method create pada crud
 - Jika user menginput 2 maka akan dilakukan proses read/menampilkan list of objek petshop, lalu program memanggil method read pada crud
 - Jika user menginput 3 maka akan dilakukan proses update objek petshop, user akan diminta untuk menginputkan data objek petshop berupa id petshop yang data nya akan diubah. Selanjutnya program memanggil method update pada crud, dalam method update ini apabila id yang akan diubah ditemukan pada list maka user perlu menginputkan data petshop berupa nama_produk, kategori_produk, harga_produks dan foto yang terbaru
 - Jika user menginput 4 maka akan dilakukan proses delete objek petshop, user akan diminta untuk menginputkan data objek petshop berupa id petshop yang objek nya akan di hapus dari list. Selanjutnya program memanggil method delete pada crud.
